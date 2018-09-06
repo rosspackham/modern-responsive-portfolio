@@ -1,0 +1,18 @@
+{
+  "name": "modern_portfolio",
+  "version": "1.0.0",
+  "description": "Responsive portfolio website",
+  "main": "index.js",
+  "scripts": {
+    "sass": "node-sass -w scss/ -o dist/css/ --recursive"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git remote add origin https://github.com/Ross-Packham/modern-responsive-portfolio.git"
+  },
+  "author": "Ross Packham",
+  "license": "ISC",
+  "dependencies": {
+    "node-sass": "^4.9.3"
+  }
+}
