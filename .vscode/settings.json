@@ -1,0 +1,4 @@
+{
+    "debug.node.autoAttach": "disabled",
+    "terminal.integrated.shell.windows": "C:\\Windows\\System32\\cmd.exe"
+}
